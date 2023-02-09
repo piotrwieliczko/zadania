@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zaddania", "zaddania\zaddania.csproj", "{FADAAE29-8C38-4AD9-9813-662E00084BAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FADAAE29-8C38-4AD9-9813-662E00084BAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FADAAE29-8C38-4AD9-9813-662E00084BAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FADAAE29-8C38-4AD9-9813-662E00084BAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FADAAE29-8C38-4AD9-9813-662E00084BAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84F05573-986F-4ABE-A68E-D697DC93644F}
+	EndGlobalSection
+EndGlobal
